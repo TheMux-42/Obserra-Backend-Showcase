@@ -61,6 +61,10 @@ Obserra hat eine verteilte Architektur, bei der Aufgaben auf mehrere spezialisie
 - **Datenbank (PostgreSQL)**  
   Speicherung von Konfigurationen, Serverdaten und Moderationsinformationen.
 
+### Architektur Diagramm
+---
+![Architektur](./images/architektur.png)
+
 ## Datenfluss (vereinfacht)
 
 1. Ein Auftrag wird über das Web-Dashboard erstellt
