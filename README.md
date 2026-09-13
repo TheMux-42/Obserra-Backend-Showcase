@@ -73,6 +73,18 @@ Obserra hat eine verteilte Architektur, bei der Aufgaben auf mehrere spezialisie
 
 ## Screenshots
 
+### Moderationsauftrag erstellen
+---
+![Dashboard](./images/request.png)
+
+### Status Antwort erhalten
+---
+![Status](./images/status.png)
+
+### Discord Bestätigung beim Ziel Nutzer
+---
+![Nachricht](./images/message.png)
+
 ## Hinweis
 
 Dieses Repository dient ausschließlich als technisches Showcase.  
